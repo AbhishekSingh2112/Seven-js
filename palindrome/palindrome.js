@@ -11,10 +11,10 @@ function pal(){
 				}
 				if(final==temp)
 				{
-					alert(final +  " is a Palindrome Number");
+					alert(temp+  " is a Palindrome Number");
 				}
 				else
 				{
-					alert( final + " is not a Palindrome Number");
+					alert(temp + " is not a Palindrome Number");
 				}
 			}
